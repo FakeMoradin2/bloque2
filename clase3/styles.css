@@ -1,0 +1,16 @@
+th{
+    border: solid 2px black;
+}
+td{
+    border: solid 2px black;
+}
+.formulario{
+    background-color: gray;
+    width: auto;
+    padding: 2%
+    
+}
+.centrar{
+    text-align: center;
+    height: 100%;
+}
