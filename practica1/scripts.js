@@ -25,7 +25,9 @@ function login(){
             }
         }
         else{
-            console.log("no existe");
+            var p = document.createElement("p");
+                p.innerHTML = "el usuario no existe";
+                parrafo.appendChild(p);
         }
     }
 }
